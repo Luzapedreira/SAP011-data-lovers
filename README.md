@@ -653,5 +653,4 @@ Quando estiver pronta para codar, sugerimos começar desta forma:
 * [ ] UI: Permite filtrar dados com base em uma condição.
 * [ ] UI: É _responsivo_.
 
-
-https://pamelitadandolo.github.io/SAP011-data-lovers/
+https://luzapedreira.github.io/SAP011-data-lovers/
